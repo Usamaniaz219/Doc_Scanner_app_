@@ -1,6 +1,4 @@
 # Doc_Scanner_app_
-Here’s a short and clean version of your **`README.md`** 👇
-
 ---
 
 # 📄 Document Scanner App
